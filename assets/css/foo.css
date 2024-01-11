@@ -34,7 +34,7 @@ img[alt$=">"] {
   
   img[alt$="><"] {
     display: block;
-    max-width: 70%;
+    max-width: 60%;
     height: auto;
     margin: auto;
     float: none!important;
