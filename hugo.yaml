@@ -1,5 +1,6 @@
 theme: hugo-flex
 title: Haimo Stiemer 
+baseURL: https://hstiemer.github.io/about/
 params:
   color: white           # Any color in CSS syntax
   width:  20         # Any length in CSS syntax / leave empty to span page
