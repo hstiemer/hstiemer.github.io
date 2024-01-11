@@ -70,14 +70,15 @@ body {
 
 webpageTitle {
 color: white;
-font-size: 58px;
+font-size: 48px;
 letter-spacing: 0.3cm;
-margin-left: 0.1em;
+margin-left: 0.3em;
 }
 
-div.u-clickable {
+a.Banner-link.u-clickable {
 font-weight: 100;
-font-size: 24px;
+font-size: 19px;
+
 
 }
 
@@ -88,7 +89,7 @@ font-size: 24px;
 
 p {
 
-  font-size: 20px;
+  font-size: 17px;
   text-align: justify;
 }
 
@@ -107,7 +108,7 @@ li {
 
 h3 {
   display: block;
-  font-size: 24px;
+  font-size: 22px;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
@@ -116,8 +117,8 @@ h3 {
 
   }
 
-h4 {
-    margin-bottom: -1em;
+.h4 {
+    margin-bottom: -1.2em;
   }
 
   .u-background {
