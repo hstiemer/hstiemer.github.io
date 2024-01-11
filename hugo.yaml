@@ -2,7 +2,7 @@ theme: hugo-flex
 title: Haimo Stiemer 
 params:
   color: white           # Any color in CSS syntax
-  width:           # Any length in CSS syntax / leave empty to span page
+  width:  20         # Any length in CSS syntax / leave empty to span page
   divider: \a0          # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
     Except where otherwise noted, content on this site is licensed under a &#32;

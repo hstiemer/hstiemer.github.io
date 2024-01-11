@@ -11,6 +11,8 @@ img[src$='#floatright']
 	float:right;
     max-width: 40%;
     margin-left: 1.2em;
+    margin-bottom: 0.2em;
+
       
 }
 
@@ -87,6 +89,7 @@ font-size: 1.4em;
 p {
 
   font-size: 1.1rem;
+  text-align: justify;
 }
 
 li {
@@ -118,5 +121,5 @@ h4 {
   }
 
   .u-background {
-    background: teal;
+    background: #366651;
     }
