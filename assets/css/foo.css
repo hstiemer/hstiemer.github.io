@@ -34,7 +34,7 @@ img[alt$=">"] {
   
   img[alt$="><"] {
     display: block;
-    max-width: 18%;
+    max-width: 70%;
     height: auto;
     margin: auto;
     float: none!important;
@@ -123,4 +123,5 @@ h3 {
 
   .u-background {
     background: #366651;
+    padding: 7px;
     }
