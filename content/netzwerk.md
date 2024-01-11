@@ -3,7 +3,7 @@ title: Netzwerk
 type: posts
 ---
 
-![Bordieu](/images/Bourdieu-Grafik-3.png)
+![Bordieu ><](/images/Bourdieu-Grafik-3.png)
 
 ## Bourdieu in den Geisteswissenschaften
 
