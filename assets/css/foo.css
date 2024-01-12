@@ -45,7 +45,7 @@ img[alt$=">"] {
 	float:right;
     max-width: 40%;
     margin-left: 1.2em;
-    margin-top: 4em;
+    margin-top: 2em;
       
 }
 
@@ -70,14 +70,14 @@ body {
 
 webpageTitle {
 color: white;
-font-size: 48px;
+font-size: 46px;
 letter-spacing: 0.3cm;
 margin-left: 0.3em;
 }
 
 a.Banner-link.u-clickable {
 font-weight: 100;
-font-size: 19px;
+font-size: 16.5px;
 
 
 }
@@ -89,7 +89,7 @@ font-size: 19px;
 
 p {
 
-  font-size: 17px;
+  font-size: 14.5px;
   text-align: justify;
 }
 
@@ -108,7 +108,7 @@ li {
 
 h3 {
   display: block;
-  font-size: 22px;
+  font-size: 18px;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
