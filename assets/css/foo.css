@@ -43,8 +43,8 @@ img[alt$=">"] {
   img[src$='#floatrightintext']
 {
 	float:right;
-    max-width: 40%;
-    margin-left: 1.2em;
+    max-width: 20%;
+    padding-left: 1.2em;
     margin: auto;
       
 }
