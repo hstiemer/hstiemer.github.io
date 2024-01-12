@@ -45,7 +45,7 @@ img[alt$=">"] {
 	float:right;
     max-width: 40%;
     margin-left: 1.2em;
-    margin-top: 2em;
+    margin: auto;
       
 }
 

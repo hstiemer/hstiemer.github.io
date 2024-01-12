@@ -17,12 +17,16 @@
    font-size: 1.2em;
    margin-bottom: 3em;
     }
-  /* .img {
-    margin-left: 2.5em;
-  } */
 
-  img {
+    .text {
+      flex: 1;
+    }
+
+  .img {
     width: 20%;
+  }
+
+  img{
     margin-left: auto;
     padding-right: 0em;
   }
@@ -44,16 +48,17 @@
     }
 
     img {
-      width: 30%; /* Make the image take full width */
+      width: 20%; /* Make the image take full width */
     }
   }
 </style>
 
 <div class="box">
+  <div class ="text">
     <p>{{ $description | markdownify }} <!-- Render the Description HTML as safe HTML -->
     </p>
-
-
+  </div>
+  <div class ="img">
     <img src="{{ $imagePath }}" alt="{{ $title }}">
-
+  </div>
 </div>
