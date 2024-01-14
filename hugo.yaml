@@ -34,7 +34,7 @@ params:
   #   - js/foo.js
   #   - bar.js
 
-summaries: true 
+summaries: false 
 menu:
   main:
     - name: Start
