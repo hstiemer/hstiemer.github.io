@@ -4,21 +4,18 @@
 
   {{ .Content }}
 
+  {{ range where .Pages "File.BaseFileName" "ne" "_index" }}
+
   {{ range .Pages.GroupByPublishDate "2006" }}
     <h3>{{ .Key }}</h3>
     <ul>
-      {{ range .Pages }}
+      
         <li>
-          <!--{{ .PublishDate.Format "2006-01-02" }} – <a href="{{ .RelPermalink }}">{{ .Title }}</a-->
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ .Content }}
-          
-
         </li>
       {{ end }}
-
     </ul>
   {{ end }}
-
-
+  {{ end }}
 {{ end }}
