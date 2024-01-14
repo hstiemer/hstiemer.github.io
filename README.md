@@ -27,7 +27,7 @@ visit: https://haimo-stiemer.org/about/
 
 ### Bilder formatieren
 - in der Datei foo.css sind einige Bildformattierungen abgelegt. Beim Markdownaufruf eines Bildes können bspw. Attribute wie "#floatrightintext", "><" für Blockdarstellung, "<" = float left, ">" float right, '#floatright' float right, oder '#floatleft' = float left für verschiedene Formattierungen aufgerufen werden
-    - "Beispiel![ASB_wien](/images/ASB-Wien.png#floatrightintext)"
+    - "Beispiel![ASB_wien] (/images/ASB-Wien.png#floatrightintext)"
 
 - Für neue Publikationen mit Bildern sollte der Shortcode im publikationen.md kopiert und bearbeitet werden
 
