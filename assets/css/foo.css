@@ -10,8 +10,8 @@ img[src$='#floatright']
 {
 	float:right;
     max-width: 40%;
-    margin-left: 1.2em;
-    margin-bottom: 0.2em;
+    margin-left: 1.3em;
+    margin-bottom: 0.4em;
 
       
 }
