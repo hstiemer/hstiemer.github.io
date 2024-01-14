@@ -23,11 +23,11 @@ Grüttemeier)
 Dr. phil., magna cum laude (sehr gut), Carl von Ossietzky Universität Oldenburg; Dissertationsschrift: »Das Habitat der mondblauen Maus. Eine feldtheoretische Untersuchung der pragerdeutschen Literatur (1890 bis 1938), Betreuer: Prof. Dr. Ralf Grüttemeier
 
 
-**12/2014 – 06/2019**    
+**12/2014-06/2019**    
 Doktorand (Fakultät Sprach- und Kulturwissenschaften der Carl von Ossietzky Universität Oldenburg)
 
 
-**06/2012 – 12/2014**
+**06/2012–12/2014**
 Stipendiat des von der Hans-Böckler-Stiftung finanzierten Promotionsprogramms  
 »Literaturtheorie als Theorie der Gesellschaft« und Mitglied der »Graduate School Practices 
 of Literature« an der Westfälischen Wilhelms-Universität Münster
@@ -41,7 +41,7 @@ der Entgrenzung. Fremdheit und Hybridität bei Herta Müller und Emine Sevgi Öz
 Abschluss des Teilstudiums in den Nebenfächern Soziologie mit »sehr gut« (1,3) 
 und Politikwissenschaft mit »sehr gut« (1,0)
 
-**10/2007 – 10/2009**       
+**10/2007–10/2009**       
 Hilfskraft bei Prof. Dr. Willi Jasper und Mitarbeit im Drittmittelprojekt »Transnationale Konzepte in Kultur und Literatur« am Institut für Germanistik und Jüdische Studien der Universität Potsdam
 
 **10/2002**     
