@@ -1,6 +1,6 @@
 # hstiemer.github.io
 
-visit: https://haimo-stiemer.org
+visit: https://haimo-stiemer.org/about/
 
 ### Allgemein
 
