@@ -2,9 +2,7 @@
 ---
 
 
-![Haimo Stiemer](/images/Homepage-1.jpeg#floatright)
-
-{{< pub_pic ImagePath="/images/Homepage-1.jpeg#floatright" Description="Foto: Evelyn Gius" >}}
+![Foto: Evelyn Gius](/images/Homepage-1.jpeg#floatright)
 
 Ich arbeite als Wissenschaftlicher Mitarbeiter am Fachgebiet Digitale Philologie – Neuere deutsche Literaturwissenschaft an der Technischen Universität Darmstadt. Hier gehöre ich dem [fortext lab](https://fortext.org/de/) an, welches im Bereich der Digital Humanities und mit dem Fokus auf die Computational Literary Studies resp. die Computational Narratology forscht. Darüber hinaus interessiere ich mich in meiner Forschung für die Literatursoziologie (insb. die Feldtheorie Pierre Bourdieus), die Journalforschung, die Literaturtheorie sowie Methodologie der Literaturwissenschaft. Der Beobachtungszeitraum meiner Forschung umfasst in der Regel die deutschsprachige Literatur der Moderne (mit dem Schwerpunkt Ost- und Zentraleuropa).
 
