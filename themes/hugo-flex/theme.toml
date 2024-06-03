@@ -5,7 +5,7 @@ description = "A lightweight Hugo theme leveraging CSS Flexbox."
 homepage = "https://github.com/ldeso/hugo-flex/"
 demosite = "https://ldeso.github.io/hugo-flex-demo/"
 tags = ["blog", "flexbox", "minimal", "multilingual", "no-javascript", "responsive"]
-features = ["blog", "contact form", "dark mode", "multilingual", "posts"]
+features = ["blog", "contact form", "multilingual", "posts"]
 min_version = "0.112.7"
 
 [author]
