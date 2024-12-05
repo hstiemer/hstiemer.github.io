@@ -134,12 +134,12 @@ h3 {
   }
 
   .u-background {
-    background: rgba(76, 103, 71, 0.78);    ;
+    background: rgba(76, 103, 71, 0.78); 
     padding: 7px;
     }
 
  a {
 
-      color: #3d916c;
+      color: rgba(76, 103, 71, 0.78);
     }
 
