@@ -43,7 +43,7 @@ languages:
   en:
     languageCode: en-US
     contentDir: content/en
-    languageName: en
+    languageName: English
     weight: 20
     menus:
       main:
@@ -72,8 +72,7 @@ languages:
   de:
     languageCode: de-DE
     contentDir: content/de
-    languageName: de
-    weight: 1
+    languageName: Deutsch
     menus:
       main:
       - name: Start
