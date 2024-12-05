@@ -40,34 +40,34 @@ defaultContentLanguageInSubdir: true
 
 
 languages:
-  en:
-    languageCode: en-US
-    contentDir: content/en
-    languageName: English
-    weight: 2
-    menus:
-      main:
-      - name: Start
-        pageref: /about.md
-        weight: 1
-      - name: Career
-        pageref: /vita.md
-        weight: 2
-      - name: Research Projects
-        pageRef: /projekte.md
-        weight: 3
-      - name: Networking
-        pageRef: /netzwerk.md
-        weight: 4
-      - name: Publications
-        pageRef: /publikationen.md
-        weight: 5      
-      - name: Archive
-        pageRef: /archiv/
-        weight: 6
-      - name: Contact
-        pageRef: /kontakt.md
-        weight: 7  
+  # en:
+  #   languageCode: en-US
+  #   contentDir: content/en
+  #   languageName: English
+  #   weight: 2
+  #   menus:
+  #     main:
+  #     - name: Start
+  #       pageref: /about.md
+  #       weight: 1
+  #     - name: Career
+  #       pageref: /vita.md
+  #       weight: 2
+  #     - name: Research Projects
+  #       pageRef: /projekte.md
+  #       weight: 3
+  #     - name: Networking
+  #       pageRef: /netzwerk.md
+  #       weight: 4
+  #     - name: Publications
+  #       pageRef: /publikationen.md
+  #       weight: 5      
+  #     - name: Archive
+  #       pageRef: /archiv/
+  #       weight: 6
+  #     - name: Contact
+  #       pageRef: /kontakt.md
+  #       weight: 7  
 
   de:
     languageCode: de-DE

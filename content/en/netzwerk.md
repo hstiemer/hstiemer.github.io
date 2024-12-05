@@ -1,5 +1,5 @@
 ---
-title: Netzwerk
+title: Networking
 type: posts
 slug: network
 translationKey: network

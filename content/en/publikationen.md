@@ -1,5 +1,5 @@
 ---
-title: Publikationen
+title: Publications
 translationKey: publications
 ---
 
