@@ -76,8 +76,9 @@ body {
 webpageTitle {
 color: white;
 font-size: 46px;
-letter-spacing: 0.3cm;
-margin-left: 0.3em;
+letter-spacing: 4px;
+margin-left: 11px;
+font-family: Courier;
 }
 
 a.Banner-link.u-clickable {
@@ -92,7 +93,7 @@ letter-spacing: 1.5px;
   flex-grow: 1;
   margin-bottom: 0em;
   margin-top: 0.5em;
-  font: Courier;
+
   }
 
 p {
