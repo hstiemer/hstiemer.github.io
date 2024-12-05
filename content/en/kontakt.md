@@ -1,5 +1,7 @@
 ---
 title: Kontakt
+translationKey: contact
+
 ---
 
 ### Impressum

@@ -1,5 +1,7 @@
 ---
 title: Career
+translationKey: vita
+
 ---
 
 ## English Version

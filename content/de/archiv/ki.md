@@ -1,0 +1,6 @@
+---
+title: Künstliche Intelligenz und literaturwissenschaftliche Expertise
+date: 2024-01-09
+---
+
+Auf der interdisziplinären Tagung mit dem Titel »KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse?« (25./26. August 2023) durfte ich zum Thema »Künstliche Intelligenz und literaturwissenschaftliche Expertise« sprechen. Der entsprechende, gemeinsam mit Evelyn Gius und Dominik Gerstorfer verfasste Beitrag erscheint Ende Januar 2024 in einem Sammelband. Wir erläutern hier Bedingungen, Probleme und Möglichkeiten, die sich im literaturwissenschaftlichen Kontext beim Einsatz von Large Language Models (LLMs) ergeben. Außerdem präsentieren wir Anwendungsbeispiele für literaturwissenschaftliche Seminare und plädieren für die offensive Einbeziehung der großen Sprachmodelle in die Hochschullehre. Der Umgang mit KI-generierten Texten und Bildern wird sicherlich eine Schlüsselkompetenz der unmittelbaren Zukunft sein und die Literaturwissenschaft als gesellschaftlicher Ort, an dem zu Texten, Textformen und deren Rezeption geforscht wird, ist hierbei besonders gefordert. Der von Gerhard Schreiber und Lukas Ohly herausgegebene Band ist bereits digital als Open Access bei [De Gruyter](https://www.degruyter.com/document/isbn/9783111350967/html?lang=de) erschienen.

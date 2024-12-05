@@ -1,5 +1,6 @@
 ---
 title: Projekte
+translationKey: Projects
 ---
 An der TU Darmstadt arbeite ich seit August 2022 im von Evelyn Gius geleiteten [fortext lab](https://fortext.org/de/), war dort mit dem EvENT-Projekt und bin seit November 2023 mit dem PLANS-Projekt betraut. Das fortext lab stellt als Service nicht nur das bei vielen Nutzer:innen beliebte Annotationsprogramm [CATMA](https://catma.de/) sowie das [fortext.net-Portal](https://fortext.net/) bereit, welches Einsteiger:innen mit grundständigen Analysemethoden und Tools aus dem Feld der Digital Humanities Methoden vertraut macht. Als Teil des [Instituts für Sprach- und Literaturwissenschaft](https://www.linglit.tu-darmstadt.de/institutlinglit/index.de.jsp) der TU und ist es zugleich eingebettet in ein Forschungsumfeld, das sich u. a. auf die Digitale Philologie spezialisiert hat. Fünf der acht Fachgebiete des Instituts sind in diesem Bereich angesiedelt.
 
