@@ -6,18 +6,18 @@
           {{ site.Title }}
         </webpageTitle>
       </li>
+      <div class="Banner-language-switcher">
+        {{ range .Site.Languages }}
+          {{ if ne .LanguageName $.Site.Language.LanguageName }}
+            <a class="Banner-link u-clickable" href="{{ .Permalink }}">{{ .LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
       {{ range site.Menus.main }}
         <li class="Banner-item">
           <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
-    <div class="Banner-language-switcher">
-      {{ range .Site.Languages }}
-        {{ if ne .LanguageName $.Site.Language.LanguageName }}
-          <a class="Banner-link u-clickable" href="{{ .Permalink }}">{{ .LanguageName }}</a>
-        {{ end }}
-      {{ end }}
-    </div>
   </div>
 </nav>
