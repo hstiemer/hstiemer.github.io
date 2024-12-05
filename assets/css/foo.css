@@ -57,6 +57,7 @@ img[alt$=">"] {
 
 body {
   font-family:Arial, Helvetica, sans-serif;
+  line-height: 1.4;
 
 }
 
@@ -82,6 +83,7 @@ margin-left: 0.3em;
 a.Banner-link.u-clickable {
 font-weight: 100;
 font-size: 16.5px;
+letter-spacing: 1.5px;
 
 
 }
@@ -90,6 +92,7 @@ font-size: 16.5px;
   flex-grow: 1;
   margin-bottom: 0em;
   margin-top: 0.5em;
+  font: Courier;
   }
 
 p {
