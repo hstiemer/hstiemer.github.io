@@ -42,59 +42,59 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     languageCode: en-US
-
+    contentDir: de
     languageName: English
     weight: 20
     menus:
       main:
       - name: Start
-        pageref: /en/about.md
+        pageref: /about.md
         weight: 1
       - name: Career
-        pageref: /en/vita.md
+        pageref: /vita.md
         weight: 2
       - name: Research Projects
-        pageRef: /en/projekte.md
+        pageRef: /projekte.md
         weight: 4
       - name: Networking
-        pageRef: /en/netzwerk.md
+        pageRef: /netzwerk.md
         weight: 5
       - name: Publications
-        pageRef: /en/publikationen.md
+        pageRef: /publikationen.md
         weight: 6      
       - name: Archive
-        pageRef: /en/archiv/
+        pageRef: /archiv/
         weight: 7
       - name: Contact
-        pageRef: /en/kontakt.md
+        pageRef: /kontakt.md
         weight: 9  
 
   de:
     languageCode: de-DE
-    contentDir: content/de
+    contentDir: de
     languageName: Deutsch
     menus:
       main:
       - name: Start
-        pageRef: /de/about.md
+        pageRef: /about.md
         weight: 2
       - name: Werdegang
-        pageref: /de/vita.md
+        pageref: /vita.md
         weight: 3
       - name: Projekte
-        pageRef: /de/projekte.md
+        pageRef: /projekte.md
         weight: 4
       - name: Netzwerk
-        pageRef: /de/netzwerk.md
+        pageRef: /netzwerk.md
         weight: 5
       - name: Publikationen
-        pageRef: /de/publikationen.md
+        pageRef: /publikationen.md
         weight: 6      
       - name: Archiv
-        pageRef: /de/archiv/
+        pageRef: /archiv/
         weight: 7
       - name: Kontakt
-        pageRef: /de/kontakt.md
+        pageRef: /kontakt.md
         weight: 9  
 
 
