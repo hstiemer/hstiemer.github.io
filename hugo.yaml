@@ -36,16 +36,29 @@ params:
 
 summaries: false 
 defaultContentLanguage: de
+defaultContentLanguageInSubdir: true
+
 
 languages:
   en:
+    languageCode: en-US
     contentDir: content/en
     languageName: en
     weight: 20
+    menus:
+      main:
+      - name: Start
+        pageref: /about
   de:
+    languageCode: de-DE
     contentDir: content/de
     languageName: de
-    weight: 10
+    weight: 1
+    menus:
+      main:
+      - name: Start
+        pageRef: /about
+
 
 
 menu:
@@ -82,7 +95,9 @@ menu:
     #   weight: 8
     - name: Kontakt
       pageRef: /kontakt
-      weight: 9            
+      weight: 9      
+    - name: de
+
     # - name: Tags
     #   pageRef: /tags
     #   weight: 6
