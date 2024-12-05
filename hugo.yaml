@@ -49,8 +49,10 @@ languages:
       main:
       - name: Start
         pageref: /about
+        weight: 1
       - name: Career
         pageref: /vita
+        weight: 2
       - name: Research Projects
         pageRef: /projekte
         weight: 4

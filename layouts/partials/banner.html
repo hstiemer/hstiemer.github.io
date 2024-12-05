@@ -1,16 +1,23 @@
 <nav class="u-background">
-    <div class="u-wrapper">
-      <ul class="Banner">
-        <li class="Banner-item Banner-item--title">
-          <webpageTitle>
-            {{ site.Title }}
-          </webpageTitle>
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <webpageTitle>
+          {{ site.Title }}
+        </webpageTitle>
+      </li>
+      {{ range site.Menus.main }}
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
         </li>
-        {{ range site.Menus.main }}
-          <li class="Banner-item">
-            <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
-          </li>
+      {{ end }}
+    </ul>
+    <div class="Banner-language-switcher">
+      {{ range .Site.Languages }}
+        {{ if ne .LanguageName $.Site.Language.LanguageName }}
+          <a class="Banner-link u-clickable" href="{{ .Permalink }}">{{ .LanguageName }}</a>
         {{ end }}
-      </ul>
+      {{ end }}
     </div>
-  </nav>
+  </div>
+</nav>
