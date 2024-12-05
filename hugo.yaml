@@ -49,6 +49,9 @@ languages:
       main:
       - name: Start
         pageref: /about
+      - name: Career
+        pageref: /vita
+
   de:
     languageCode: de-DE
     contentDir: content/de
@@ -58,6 +61,8 @@ languages:
       main:
       - name: Start
         pageRef: /about
+      - name: Werdegang
+        pageref: /vita
 
 
 
