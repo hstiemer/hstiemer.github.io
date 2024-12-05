@@ -127,7 +127,41 @@ languages:
     # - name: RSS
     #   url: /index.xml
     #   weight: 9
+menu:
+  main:
+    - name: Start
+      pageRef: /about
+      weight: 1
+    # - name: About1
+    #   pageRef: /about1/
+    #   weight: 2
+    - name: Werdegang
+      pageRef: /vita
+      weight: 3
 
+    - name: Projekte
+      pageRef: /projekte
+      weight: 4
+    - name: Netzwerk
+      pageRef: /netzwerk
+      weight: 5
+    # - name: Foschung
+    #   pageRef: /forschung/
+    #   weight: 2
+    - name: Publikationen
+      pageRef: /publikationen
+      weight: 6      
+  
+
+    - name: Archiv
+      pageRef: /archiv/
+      weight: 7
+    # - name: Post
+    #   pageRef: /post
+    #   weight: 8
+    - name: Kontakt
+      pageRef: /kontakt
+      weight: 9      
 
 # imaging:
 #   bgColor: '#ffffff'
