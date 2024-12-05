@@ -1,6 +1,8 @@
 ---
-title: Werdegang
+title: Career
 ---
+
+## English Version
 
 ## Berufserfahrung
 

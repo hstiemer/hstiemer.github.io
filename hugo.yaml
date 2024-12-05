@@ -51,6 +51,21 @@ languages:
         pageref: /about
       - name: Career
         pageref: /vita
+      - name: Research Projects
+        pageRef: /projekte
+        weight: 4
+      - name: Networking
+        pageRef: /netzwerk
+        weight: 5
+      - name: Publications
+        pageRef: /publikationen
+        weight: 6      
+      - name: Archive
+        pageRef: /archiv/
+        weight: 7
+      - name: Contact
+        pageRef: /kontakt
+        weight: 9  
 
   de:
     languageCode: de-DE
@@ -61,9 +76,25 @@ languages:
       main:
       - name: Start
         pageRef: /about
+        weight: 2
       - name: Werdegang
         pageref: /vita
-
+        weight: 3
+      - name: Projekte
+        pageRef: /projekte
+        weight: 4
+      - name: Netzwerk
+        pageRef: /netzwerk
+        weight: 5
+      - name: Publikationen
+        pageRef: /publikationen
+        weight: 6      
+      - name: Archiv
+        pageRef: /archiv/
+        weight: 7
+      - name: Kontakt
+        pageRef: /kontakt
+        weight: 9  
 
 
 menu:
