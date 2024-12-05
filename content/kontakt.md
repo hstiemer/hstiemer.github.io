@@ -2,6 +2,9 @@
 title: Kontakt
 ---
 
+### Impressum
+
+Haimo Stiemer \
 Technische Universität Darmstadt \
 Institut für Sprach- und Literaturwissenschaft \
 FB Gesellschafts- und Geschichtswissenschaften \

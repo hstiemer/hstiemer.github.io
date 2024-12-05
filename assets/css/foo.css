@@ -13,7 +13,6 @@ img[src$='#floatright']
     margin-left: 1.3em;
     margin-bottom: 0.4em;
     padding-bottom: 1.7em;
-    padding-top: 0.6em;
 
       
 }
@@ -81,6 +80,10 @@ margin-left: 11px;
 font-family: PingFang TC;
 }
 
+.u-padding {
+  font-size: 10px;
+
+}
 a.Banner-link.u-clickable {
 font-weight: 100;
 font-size: 16.5px;
