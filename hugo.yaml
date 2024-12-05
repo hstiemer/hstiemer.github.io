@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     languageCode: en-US
-    contentDir: de
+    contentDir: content/en
     languageName: English
     weight: 20
     menus:
@@ -71,7 +71,7 @@ languages:
 
   de:
     languageCode: de-DE
-    contentDir: de
+    contentDir: content/de
     languageName: Deutsch
     menus:
       main:
