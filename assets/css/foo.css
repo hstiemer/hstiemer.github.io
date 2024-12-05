@@ -56,7 +56,7 @@ img[alt$=">"] {
 
 
 body {
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Helvetica Neue;
   line-height: 1.4;
 
 }
@@ -76,9 +76,9 @@ body {
 webpageTitle {
 color: white;
 font-size: 46px;
-letter-spacing: 4px;
+letter-spacing: 3px;
 margin-left: 11px;
-font-family: Courier;
+font-family: PingFang TC;
 }
 
 a.Banner-link.u-clickable {
@@ -131,7 +131,7 @@ h3 {
   }
 
   .u-background {
-    background: #366651;
+    background: rgba(76, 103, 71, 0.78);    ;
     padding: 7px;
     }
 
