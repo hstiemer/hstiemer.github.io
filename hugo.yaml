@@ -76,25 +76,25 @@ languages:
     menus:
       main:
       - name: Start
-        pageRef: /de/about
+        pageRef: /de/about.md
         weight: 2
       - name: Werdegang
-        pageref: /de/vita
+        pageref: /de/vita.md
         weight: 3
       - name: Projekte
-        pageRef: /de/projekte
+        pageRef: /de/projekte.md
         weight: 4
       - name: Netzwerk
-        pageRef: /de/netzwerk
+        pageRef: /de/netzwerk.md
         weight: 5
       - name: Publikationen
-        pageRef: /de/publikationen
+        pageRef: /de/publikationen.md
         weight: 6      
       - name: Archiv
         pageRef: /de/archiv/
         weight: 7
       - name: Kontakt
-        pageRef: /de/kontakt
+        pageRef: /de/kontakt.md
         weight: 9  
 
 
