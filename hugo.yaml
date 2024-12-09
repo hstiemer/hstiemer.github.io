@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     languagekey: en
-    contentDir: /en
+    contentDir: content/en
     languageName: English
     permalink: /en/:slug/
     menus:
@@ -77,7 +77,7 @@ languages:
         weight: 7  
 
   de:
-    contentDir: /de
+    contentDir: content/de
     languageName: Deutsch
     permalink: /de/:slug/
     menus:
