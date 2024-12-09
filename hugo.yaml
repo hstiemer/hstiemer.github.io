@@ -3,7 +3,7 @@ title: Haimo Stiemer
 baseURL: https://haimo-stiemer.org/
 params:
   color: white           # Any color in CSS syntax
-  width:  20         # Any length in CSS syntax / leave empty to span page
+  width: 20           # Any length in CSS syntax / leave empty to span page
   divider: \a0          # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
     Except where otherwise noted, content on this site is licensed under a &#32;
@@ -39,55 +39,65 @@ defaultContentLanguage: de
 defaultContentLanguageInSubdir: true
 
 
+
 languages:
-  # en:
-  #   languageCode: en-US
-  #   contentDir: content/en
-  #   languageName: English
-  #   weight: 2
-  #   menus:
-  #     main:
-  #     - name: Start
-  #       pageref: /about.md
-  #       weight: 1
-  #     - name: Career
-  #       pageref: /vita.md
-  #       weight: 2
-  #     - name: Research Projects
-  #       pageRef: /projekte.md
-  #       weight: 3
-  #     - name: Networking
-  #       pageRef: /netzwerk.md
-  #       weight: 4
-  #     - name: Publications
-  #       pageRef: /publikationen.md
-  #       weight: 5      
-  #     - name: Archive
-  #       pageRef: /archiv/
-  #       weight: 6
-  #     - name: Contact
-  #       pageRef: /kontakt.md
-  #       weight: 7  
+  en:
+    languagekey: en
+    contentDir: content/en
+    languageName: English
+    permalink: /en/:slug/
+    menus:
+      main:
+      - name: Start
+        pageref: /about.md
+        weight: 1
+        translationKey: start
+        identifier: start
+      - name: Career
+        pageref: /vita.md
+        weight: 2
+        identifier: vita
+      - name: Research Projects
+        pageRef: /projekte.md
+        weight: 3
+        identifier: projects
+      - name: Networking
+        pageRef: /netzwerk.md
+        weight: 4
+        identifier: network
+      - name: Publications
+        pageRef: /publikationen.md
+        weight: 5      
+      - name: Archive
+        pageRef: /archiv/
+        weight: 6
+      - name: Contact
+        pageRef: /contact.md
+        weight: 7  
 
   de:
-    languageCode: de-DE
     contentDir: content/de
     languageName: Deutsch
-    weight: 1
+    permalink: /de/:slug/
     menus:
       main:
       - name: Start
         pageRef: /about.md
         weight: 1
+        translationKey: start
+        identifier: start
       - name: Werdegang
         pageref: /vita.md
         weight: 2
+        identifier: vita
       - name: Projekte
         pageRef: /projekte.md
         weight: 3
+        identifier: projects
       - name: Netzwerk
         pageRef: /netzwerk.md
         weight: 4
+        identifier: network
       - name: Publikationen
         pageRef: /publikationen.md
         weight: 5      

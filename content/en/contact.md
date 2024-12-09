@@ -1,6 +1,7 @@
 ---
 title: Contact Information
 translationKey: contact
+identifier: contact
 
 ---
 
@@ -26,4 +27,4 @@ X (aka Twitter): @HaimoStiemer
 
 \
 \
-Webentwicklung: Mari Akazawa
+Web development: Mari Akazawa

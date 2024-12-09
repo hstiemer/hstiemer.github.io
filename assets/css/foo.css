@@ -81,11 +81,17 @@ font-family: PingFang TC;
 }
 
 .u-padding {
-  font-size: 10px;
+  font-size: 11px;
+
 
 }
+
+article {
+  width: auto;
+}
+
 a.Banner-link.u-clickable {
-font-weight: 100;
+font-weight: 120;
 font-size: 16.5px;
 letter-spacing: 1.5px;
 
@@ -145,7 +151,8 @@ h3 {
 
 .Banner-language-switcher {
   display: inline-block;
-  margin-left: 20px; /* Abstand vom Titel oder Navigation */
+  margin-left: 10px; /* Abstand vom Titel oder Navigation */
+  font-weight: 100;
 }
 
 .Banner-language-switcher a {
@@ -157,3 +164,13 @@ h3 {
 .Banner-language-switcher a:hover {
   text-decoration: underline;
 }
+
+
+.u-clickable {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 5px;
+  
+
+  
+  }

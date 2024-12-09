@@ -2,15 +2,42 @@
   <div class="u-wrapper">
     <ul class="Banner">
       <li class="Banner-item Banner-item--title">
-        <h1 class="Banner-heading">
-          <a class="Banner-link u-clickable" href="{{ relLangURL nil }}">{{ site.Title }}</a>
-        </h1>
+        <webpageTitle>
+          {{ .Site.Title }}
+        </webpageTitle>
       </li>
-      {{ range site.Menus.main }}
+      {{ range .Site.Menus.main }}
         <li class="Banner-item">
-          <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
+          <a class="Banner-link u-clickable" href="{{ .URL }}">{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
+    <div class="Banner-language-switcher">
+      <!-- Dynamischer Link für Deutsch -->
+      {{ $de := .Site.GetPage "de" (printf "/%s" .Params.identifier) }}
+      {{ if $de }}
+        <a href="{{ $de.RelPermalink }}" class="{{ if eq .Site.Language.Lang "de" }}active{{ end }} language">
+          Deutsch
+        </a>
+      {{ else }}
+        <a href="{{ "de" | relLangURL }}" class="{{ if eq .Site.Language.Lang "de" }}active{{ end }} language">
+          Deutsch
+        </a>
+      {{ end }}
+
+      |
+      
+      <!-- Dynamischer Link für Englisch -->
+      {{ $en := .Site.GetPage "en" (printf "/%s" .Params.identifier) }}
+      {{ if $en }}
+        <a href="{{ $en.RelPermalink }}" class="{{ if eq .Site.Language.Lang "en" }}active{{ end }} language">
+          Englisch
+        </a>
+      {{ else }}
+        <a href="{{ "en" | relLangURL }}" class="{{ if eq .Site.Language.Lang "en" }}active{{ end }} language">
+          Englisch
+        </a>
+      {{ end }}
+    </div>
   </div>
 </nav>
