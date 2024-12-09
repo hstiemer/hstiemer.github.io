@@ -41,6 +41,38 @@ defaultContentLanguageInSubdir: true
 
 
 languages:
+  de:
+    contentDir: content/de
+    languageName: Deutsch
+    permalink: /de/:slug/
+    menus:
+      main:
+      - name: Start
+        pageRef: /about.md
+        weight: 1
+        translationKey: start
+        identifier: start
+      - name: Werdegang
+        pageref: /vita.md
+        weight: 2
+        identifier: vita
+      - name: Projekte
+        pageRef: /projekte.md
+        weight: 3
+        identifier: projects
+      - name: Netzwerk
+        pageRef: /netzwerk.md
+        weight: 4
+        identifier: network
+      - name: Publikationen
+        pageRef: /publikationen.md
+        weight: 5      
+      - name: Archiv
+        pageRef: /archiv/
+        weight: 6
+      - name: Kontakt
+        pageRef: /kontakt.md
+        weight: 7  
   en:
     languagekey: en
     contentDir: content/en
@@ -75,40 +107,6 @@ languages:
       - name: Contact
         pageRef: /contact.md
         weight: 7  
-
-  de:
-    contentDir: content/de
-    languageName: Deutsch
-    permalink: /de/:slug/
-    menus:
-      main:
-      - name: Start
-        pageRef: /about.md
-        weight: 1
-        translationKey: start
-        identifier: start
-      - name: Werdegang
-        pageref: /vita.md
-        weight: 2
-        identifier: vita
-      - name: Projekte
-        pageRef: /projekte.md
-        weight: 3
-        identifier: projects
-      - name: Netzwerk
-        pageRef: /netzwerk.md
-        weight: 4
-        identifier: network
-      - name: Publikationen
-        pageRef: /publikationen.md
-        weight: 5      
-      - name: Archiv
-        pageRef: /archiv/
-        weight: 6
-      - name: Kontakt
-        pageRef: /kontakt.md
-        weight: 7  
-
 
 
 # imaging:
