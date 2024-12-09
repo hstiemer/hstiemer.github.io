@@ -1,11 +1,8 @@
-{{- if .Site.IsMultiLingual }}
-    <ul class="lang-switcher">
-        {{ range .Site.Languages }}
-            <li>
-                <a href="{{ .Lang | relLangURL .Permalink }}">
-                    {{ .LanguageName }}
-                </a>
-            </li>
-        {{ end }}
-    </ul>
-{{- end }}
+<nav class="Banner-language-switcher">
+    <!-- Dynamischer Link für Deutsch -->
+    <a href="#" class="language-switcher" data-lang="de">Deutsch</a>
+    |
+    <!-- Dynamischer Link für Englisch -->
+    <a href="#" class="language-switcher" data-lang="en">Englisch</a>
+  </nav>
+  

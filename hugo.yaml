@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     languagekey: en
-    contentDir: content/en
+    contentDir: /en
     languageName: English
     permalink: /en/:slug/
     menus:
@@ -57,6 +57,7 @@ languages:
         pageref: /vita.md
         weight: 2
         identifier: vita
+        translationKey: vita
       - name: Research Projects
         pageRef: /projekte.md
         weight: 3
@@ -76,7 +77,7 @@ languages:
         weight: 7  
 
   de:
-    contentDir: content/de
+    contentDir: /de
     languageName: Deutsch
     permalink: /de/:slug/
     menus:
