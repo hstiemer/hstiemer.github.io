@@ -58,7 +58,7 @@ languages:
         weight: 2
         identifier: vita
         translationKey: vita
-      - name: Research Projects
+      - name: Projects
         pageRef: /projekte.md
         weight: 3
         identifier: projects
