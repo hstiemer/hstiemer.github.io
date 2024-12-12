@@ -34,6 +34,10 @@ params:
   #   - js/foo.js
   #   - bar.js
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 summaries: false 
 defaultContentLanguage: de
 defaultContentLanguageInSubdir: true

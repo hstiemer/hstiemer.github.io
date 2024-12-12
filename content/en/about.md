@@ -11,17 +11,8 @@ I’m a Research Assistant at the Department of Digital Philology - Modern Germa
 At the _fortext lab_, I contribute to the project [»Unitizing Plot to Advance Analysis of Narrative Structure (PLANS)«](https://gepris.dfg.de/gepris/projekt/434552206?language=en), led by [Evelyn Gius](https://evelyngius.de/de/) and Chris Biemann (Language Technology Group, University of Hamburg). This project is part of the DFG Priority Programme 2207 »Computational Literary Studies«. Our research aims to advance the computer-assisted analysis and modelling of plot concepts in narrative theory. By combining NLP techniques and narratological approaches, we develop plot units to deepen our understanding of narrative structures and the construction of narratives in literary texts.
 
 
+<div class="spacing"></div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-\
-\
-\
 
 ## News
 

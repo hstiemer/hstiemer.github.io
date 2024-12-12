@@ -1,3 +1,3 @@
 ---
-title: Archiv
+title: Archive
 ---

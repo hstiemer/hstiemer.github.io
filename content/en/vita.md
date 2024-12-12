@@ -4,7 +4,6 @@ translationKey: vita
 
 ---
 
-## English Version
 
 ## Berufserfahrung
 
