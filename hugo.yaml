@@ -73,40 +73,40 @@ languages:
       - name: Kontakt
         pageRef: /kontakt.md
         weight: 7  
-  # en:
-  #   languagekey: en
-  #   contentDir: content/en
-  #   languageName: English
-  #   permalink: /en/:slug/
-  #   menus:
-  #     main:
-  #     - name: Start
-  #       pageref: /about.md
-  #       weight: 1
-  #       translationKey: start
-  #       identifier: start
-  #     - name: Career
-  #       pageref: /vita.md
-  #       weight: 2
-  #       identifier: vita
-  #       translationKey: vita
-  #     - name: Projects
-  #       pageRef: /projekte.md
-  #       weight: 3
-  #       identifier: projects
-  #     - name: Networking
-  #       pageRef: /netzwerk.md
-  #       weight: 4
-  #       identifier: network
-  #     - name: Publications
-  #       pageRef: /publikationen.md
-  #       weight: 5      
-  #     - name: Archive
-  #       pageRef: /archiv/
-  #       weight: 6
-  #     - name: Contact
-  #       pageRef: /contact.md
-  #       weight: 7  
+  en:
+    languagekey: en
+    contentDir: content/en
+    languageName: English
+    permalink: /en/:slug/
+    menus:
+      main:
+      - name: Start
+        pageref: /about.md
+        weight: 1
+        translationKey: start
+        identifier: start
+      - name: Career
+        pageref: /vita.md
+        weight: 2
+        identifier: vita
+        translationKey: vita
+      - name: Projects
+        pageRef: /projekte.md
+        weight: 3
+        identifier: projects
+      - name: Networking
+        pageRef: /netzwerk.md
+        weight: 4
+        identifier: network
+      - name: Publications
+        pageRef: /publikationen.md
+        weight: 5      
+      - name: Archive
+        pageRef: /archiv/
+        weight: 6
+      - name: Contact
+        pageRef: /contact.md
+        weight: 7  
 
 
 # imaging:

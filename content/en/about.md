@@ -7,10 +7,9 @@ translationKey: about
 
 ![Foto von Evelyn Gius](/images/Homepage-1.jpeg#floatright)
 
-I work as researcher.
-Ich arbeite als Wissenschaftlicher Mitarbeiter am Fachgebiet Digitale Philologie – Neuere deutsche Literaturwissenschaft an der Technischen Universität Darmstadt. Hier gehöre ich dem [fortext lab](https://fortext.org/de/) an, welches im Bereich der Digital Humanities und mit dem Fokus auf die Computational Literary Studies resp. die Computational Narratology forscht. 
 
-Im fortext lab bin ich mit dem von [Evelyn Gius](https://evelyngius.de/de/) und Chris Biemann (Language Technology Group an der Universität Hamburg) geleiteten Projekt [»Unitizing Plot to Advance Analysis of Narrative Structure (PLANS)«](https://gepris.dfg.de/gepris/projekt/434552206?language=en) betraut, welches im DFG-Schwerpunktprogramm 2207 »Computational Literary Studies« angesiedelt ist. 
+I’m a Research Assistant at the Department of Digital Philology - Modern German Literature at the Technical University of Darmstadt. As a member of the [_fortext lab_](https://fortext.org/de/), I  am currently working in the field of digital humanities, and computational narratology. My academic interests include the sociology of literature (with a particular emphasis on Pierre Bourdieu's field theory), magazine studies, literary theory and the methodology of literary studies. My work primarily explores modernist German-language literature, with a special focus on Eastern and Central Europe.
+At the _fortext lab_, I contribute to the project [»Unitizing Plot to Advance Analysis of Narrative Structure (PLANS)«](https://gepris.dfg.de/gepris/projekt/434552206?language=en), led by [Evelyn Gius](https://evelyngius.de/de/) and Chris Biemann (Language Technology Group, University of Hamburg). This project is part of the DFG Priority Programme 2207 »Computational Literary Studies«. Our research aims to advance the computer-assisted analysis and modelling of plot concepts in narrative theory. By combining NLP techniques and narratological approaches, we develop plot units to deepen our understanding of narrative structures and the construction of narratives in literary texts.
 
 
 
@@ -23,15 +22,25 @@ Im fortext lab bin ich mit dem von [Evelyn Gius](https://evelyngius.de/de/) und 
 ## Aktuelles
 
 
+### Research Stay in Galway
+From late February to early April 2024, I was a visiting researcher at the **Moore Institute** at the University of Galway (Ireland) through the **CLS INFRA Transnational Access Fellowship Programme**. During my stay, I engaged in intensive exchanges with colleagues from English and German literary studies as well as Digital Humanities, focusing on both modern studies and questions related to computational methods. My TNA talk was titled “Clash of the Modernists: Periodicals as an Object of Research in Literary Studies.” I discuss my stay in Galway in an [interview clip with CLS Infra](https://www.youtube.com/watch?v=Gk0yODFSlDI). In summary, it was an exciting time in Galway that provided important insights for my research and interesting perspectives on another European academic system.
+
 ### Künstliche Intelligenz und literaturwissenschaftliche Expertise
-Auf der interdisziplinären Tagung mit dem Titel »KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse?« (25./26. August 2023) durfte ich zum Thema »Künstliche Intelligenz und literaturwissenschaftliche Expertise« sprechen. Der entsprechende, gemeinsam mit Evelyn Gius und Dominik Gerstorfer verfasste Beitrag erscheint Ende Januar 2024 in er unmittelbaren Zukunft sein und die Literaturwissenschaft als gesellschaftlicher Ort, an dem zu Texten, Textformen und deren Rezeption geforscht wird, ist hierbei besonders gefordert. Der von Gerhard Schreiber und Lukas Ohly herausgegebene Band ist bereits digital als Open Access bei [De Gruyter](https://www.degruyter.com/document/isbn/9783111350967/html?lang=de) erschienen.
+Artificial intelligence and literary expertise
+I was invited to speak at the interdisciplinary conference entitled »KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse?« [AI – Text and Validity. How do AI text generators change scientific discourses?] (25/26 August 2023) on the topic of ‘Artificial intelligence and literary expertise’. The corresponding article, co-authored with Evelyn Gius and Dominik Gerstorfer, was published in an anthology in January 2024. 
+In this article, we explore the conditions, challenges and opportunities that arise when applying large language models (LLMs) in literary studies. We present case studies from literary studies seminars and argue in favour of the proactive inclusion of large language models in university teaching. Dealing with AI-generated texts and images will undoubtedly become a key competence in the near future, and literary studies, as a social environment of the analysis of texts, text forms and their reception, will face significant challenges in this regard. The volume edited by Gerhard Schreiber and Lukas Ohly has already been published digitally as open access by [De Gruyter](https://www.degruyter.com/document/isbn/9783111350967/html?lang=de).
 
 
-### Treffen des BIG-Netzwerks in Wien
+### Meeting of the BiG network in Vienna
 
 ![ASB_wien](/images/ASB-Wien.png#floatrightintext)
-Bereits zum zweiten Mal fand Anfang November 2023 ein vom Netzwerk »Bourdieu in den Geisteswissenschaften (BiG)«, dem Verein Neugermanistik Wien und Prof. Dr. Norbert Christian Wolf organisierter Workshop im Schreyvogelsaal in der Wiener Hofburg statt – diesmal zum Thema: Autosoziobiographie und Bourdieu. Das Programm [Link-Datei Autosoziobiographie und Bourdieu_Programm] versammelte Mitglieder des BIG-Netzwerks und Gäste, um sich der Relevanz des jungen Genres der Autosoziobiographie v. a. in der deutschsprachigen Gegenwartsliteratur zu widmen. Julian Häußler und ich vom fortext lab sprachen zum Thema »Deutschsprachige Autosoziobiographien 2017-2022. Eine explorative computationelle Korpusstudie«. Ein Sammelband zum Workshop wird vermutlich Anfang 2025 erscheinen.
+
+In early November 2023, the second workshop organized by the network _Bourdieu in the Humanities (BiG)_, the association _Neugermanistik Wien_, and Prof. Dr. Norbert Christian Wolf took place in the Schreyvogelsaal of the Vienna Hofburg. The workshop focused on the theme ‘_Autosociobiography and Bourdieu_’, bringing together members of the BiG network and guest speakers to explore the emerging genre of autosociobiography, particularly its significance in contemporary German-language literature.
+Together with Julian Häußler from the fortext lab, I presented on the topic ‘_Deutschsprachige Autosoziobiographien 2017–2022. Eine explorative computationelle Korpusstudie_’ (‘German-language Autosociobiographies 2017–2022: An Explorative Computational Corpus Study’).
+An anthology based on the workshop discussions is expected to be published in 2025.
+
 
 
 ### Erste Bilanz des EvENT-Projekts 
-Für eine Sonderausgabe der Open-Access-Zeitschrift [»Textpraxis. Digitales Journal für Philologie«](https://www.textpraxis.net/sonderausgabe-7) haben Evelyn Gius und ich eine kurze Bilanz des Projekts »Evaluating Events in Narrative Theory« (EvENT) gezogen. Wie wurden im Projekt Ereignisse, denen in der Narratologie gemeinhin eine wichtige Funktion für die narrative Konstitution zugewiesen wird, maschinenlesbar und daher auf der Textoberfläche modelliert? Und wie wurden auf dieser Grundlage Narrativitätsgraphen von Texten erzeugt?
+
+In a special issue of the open access journal [‘Textpraxis. Digitales Journal für Philologie’](https://www.textpraxis.net/sonderausgabe-7), Evelyn Gius and I provided an overview of the “Evaluating Events in Narrative Theory” (EvENT) project. In this article, we discuss how we adapted events, widely considered central to narrative construction in narratology, machine-readable and thus modelled on the surface level of text, as well as how we generated narrativity graphs of texts on this basis.
