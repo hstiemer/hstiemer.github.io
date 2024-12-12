@@ -44,7 +44,6 @@ languages:
   de:
     contentDir: content/de
     languageName: Deutsch
-    permalink: /de/:slug/
     menus:
       main:
       - name: Start
@@ -77,7 +76,7 @@ languages:
     languagekey: en
     contentDir: content/en
     languageName: English
-    permalink: /en/:slug/
+
     menus:
       main:
       - name: Start

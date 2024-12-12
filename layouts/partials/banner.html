@@ -8,39 +8,22 @@
       </li>
       {{ range site.Menus.main }}
         <li class="Banner-item">
-          <a class="Banner-link u-clickable" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
     <div class="Banner-language-switcher">
-      <!-- Dynamischer Link für Deutsch -->
-      {{ $de := site.GetPage "de" (printf "/%s/" .Params.identifier) }}
-      {{ if $de }}
-        <a href="{{ $de.RelPermalink }}" class="{{ if eq .Site.Language.Lang "de" }}active{{ end }} language">
-          Deutsch
-        </a>
-      {{ else }}
-        <a href="/de/" class="{{ if eq .Site.Language.Lang "de" }}active{{ end }} language">
-          Deutsch
-        </a>
-      {{ end }}
-    
-      |
-    
-      <!-- Dynamischer Link für Englisch -->
-      {{ $en := site.GetPage "en" (printf "/%s/" .Params.identifier) }}
-      {{ if $en }}
-        <a href="{{ $en.RelPermalink }}" class="{{ if eq .Site.Language.Lang "en" }}active{{ end }} language">
-          Englisch
-        </a>
-      {{ else }}
-        <a href="/en/" class="{{ if eq .Site.Language.Lang "en" }}active{{ end }} language">
-          Englisch
-        </a>
+      {{ range .Site.Languages }}
+      {{ if eq . $.Site.Language }}
+		<a class="active language">{{ .LanguageName }}</a>
+	{{ else }}
+		{{ range $.Translations }}
+		<a href="{{ .Permalink }}" class=""> {{ .Language.LanguageName }} </a>
+		{{ end }}
+	{{ end }}
       {{ end }}
     </div>
-
-    
-    
+ 
   </div>
+  
 </nav>

@@ -3,7 +3,6 @@ translationKey: about
 
 ---
 
-## Hello its me
 
 ![Foto von Evelyn Gius](/images/Homepage-1.jpeg#floatright)
 
@@ -19,14 +18,13 @@ At the _fortext lab_, I contribute to the project [»Unitizing Plot to Advance A
 \
 \
 
-## Aktuelles
+## News
 
 
 ### Research Stay in Galway
 From late February to early April 2024, I was a visiting researcher at the **Moore Institute** at the University of Galway (Ireland) through the **CLS INFRA Transnational Access Fellowship Programme**. During my stay, I engaged in intensive exchanges with colleagues from English and German literary studies as well as Digital Humanities, focusing on both modern studies and questions related to computational methods. My TNA talk was titled “Clash of the Modernists: Periodicals as an Object of Research in Literary Studies.” I discuss my stay in Galway in an [interview clip with CLS Infra](https://www.youtube.com/watch?v=Gk0yODFSlDI). In summary, it was an exciting time in Galway that provided important insights for my research and interesting perspectives on another European academic system.
 
-### Künstliche Intelligenz und literaturwissenschaftliche Expertise
-Artificial intelligence and literary expertise
+### Artificial intelligence and literary expertise
 I was invited to speak at the interdisciplinary conference entitled »KI – Text und Geltung. Wie verändern KI-Textgeneratoren wissenschaftliche Diskurse?« [AI – Text and Validity. How do AI text generators change scientific discourses?] (25/26 August 2023) on the topic of ‘Artificial intelligence and literary expertise’. The corresponding article, co-authored with Evelyn Gius and Dominik Gerstorfer, was published in an anthology in January 2024. 
 In this article, we explore the conditions, challenges and opportunities that arise when applying large language models (LLMs) in literary studies. We present case studies from literary studies seminars and argue in favour of the proactive inclusion of large language models in university teaching. Dealing with AI-generated texts and images will undoubtedly become a key competence in the near future, and literary studies, as a social environment of the analysis of texts, text forms and their reception, will face significant challenges in this regard. The volume edited by Gerhard Schreiber and Lukas Ohly has already been published digitally as open access by [De Gruyter](https://www.degruyter.com/document/isbn/9783111350967/html?lang=de).
 
@@ -41,6 +39,6 @@ An anthology based on the workshop discussions is expected to be published in 20
 
 
 
-### Erste Bilanz des EvENT-Projekts 
+### First review of the EvENT project
 
 In a special issue of the open access journal [‘Textpraxis. Digitales Journal für Philologie’](https://www.textpraxis.net/sonderausgabe-7), Evelyn Gius and I provided an overview of the “Evaluating Events in Narrative Theory” (EvENT) project. In this article, we discuss how we adapted events, widely considered central to narrative construction in narratology, machine-readable and thus modelled on the surface level of text, as well as how we generated narrativity graphs of texts on this basis.
