@@ -23,6 +23,7 @@ haimo.stiemer@linglit.tu-darmstadt.de
 
 ORCID: 0000-0002-4407-2415 \
 Bluesky: @haimostiemer.bsky.social \
+Mastodon: @HaimoStiemer@fedihum.org
 X (aka Twitter): @HaimoStiemer
 
 \

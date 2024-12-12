@@ -19,10 +19,11 @@ Büro: S 3|13 225
 haimo.stiemer@linglit.tu-darmstadt.de
 
 
-### Weitere Infos
+### Further Information
 
 ORCID: 0000-0002-4407-2415 \
 Bluesky: @haimostiemer.bsky.social \
+Mastodon: @HaimoStiemer@fedihum.org
 X (aka Twitter): @HaimoStiemer
 
 \
