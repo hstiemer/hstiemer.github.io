@@ -5,11 +5,11 @@ translationKey: publications
 
 <!--{{ < publikationen >}}-->
 
-## Monografie
+## Monographies
 
 {{< pub_pic ImagePath="/images/Dissertation.jpg" Description="Stiemer, Haimo. 2020. Das Habitat der mondblauen Maus. Eine feldtheoretische Untersuchung der pragerdeutschen Literatur 1890–1938. Würzburg: Königshausen & Neumann." >}}
 
-## Herausgeberschaften
+## Edited Publications
 
 {{< pub_pic ImagePath="/images/Mitteilungen.jpg" Description="Stiemer, Haimo und Albrecht Hausmann. Germanistik in Tschechien. Mitteilungen des Deutschen Germanistenverbandes 2023 Jg. 70, Heft 2. Göttingen: Vandenhoeck & Ruprecht unipress." >}}
 
@@ -24,7 +24,7 @@ translationKey: publications
 {{< pub_pic ImagePath="/images/Literatur-Macht-Gesellschaft.jpg" Description="Buck, Nikolas, Büker, Dominic, Conrad, Maren, Byroum-Wand, Pegah, Ilic, Ana, Johnstone, Japhet, Sanchino Martinez, Esteban, Stiemer, Haimo und Martin Stobbe. 2015. Literatur. Macht. Gesellschaft. Neue Beiträge zur theoretischen Modellierung des Verhältnisses von Literatur und Gesellschaft. Heidelberg: Winter Verlag." >}}
 
 
-## Aufsätze
+## Articles
 
 - Stiemer, Haimo, Evelyn Gius und Dominik Gerstorfer. 2024. »Künstliche Intelligenz und literaturwissenschaftliche Expertise«. In KI:Text. Diskurse über KI-Textgeneratoren, herausgegeben von Schreiber, Gerhard und Lukas Ohly, 455–466. Berlin, Boston: De Gruyter.
 
