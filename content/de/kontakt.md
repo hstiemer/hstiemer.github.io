@@ -12,7 +12,7 @@ Technische Universität Darmstadt \
 Institut für Sprach- und Literaturwissenschaft \
 FB Gesellschafts- und Geschichtswissenschaften \
 Residenzschloss \
-64283 Darmstadt/Deutschland \
+64283 Darmstadt/Deutschland 
 
 Büro: S 3|13 225
 

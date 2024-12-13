@@ -37,4 +37,10 @@ An anthology based on the workshop discussions is expected to be published in 20
 
 ### First review of the EvENT project
 
-In a special issue of the open access journal [‘Textpraxis. Digitales Journal für Philologie’](https://www.textpraxis.net/sonderausgabe-7), Evelyn Gius and I provided an overview of the “Evaluating Events in Narrative Theory” (EvENT) project. In this article, we discuss how we adapted events, widely considered central to narrative construction in narratology, machine-readable and thus modelled on the surface level of text, as well as how we generated narrativity graphs of texts on this basis.
+In a special issue of the open access journal ‘[Textpraxis. Digitales Journal für Philologie](https://www.textpraxis.net/sonderausgabe-7)’, Evelyn Gius and I provided an overview of the “Evaluating Events in Narrative Theory” (EvENT) project. In this article, we discuss how we adapted events, widely considered central to narrative construction in narratology, machine-readable and thus modelled on the surface level of text, as well as how we generated narrativity graphs of texts on this basis.
+
+
+<br>
+<br>
+<br>
+<br>

@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir: true
 languages:
   de:
     contentDir: content/de
-    languageName: Deutsch
+    languageName: DE
     menus:
       main:
       - name: Start
@@ -79,7 +79,7 @@ languages:
   en:
     languagekey: en
     contentDir: content/en
-    languageName: English
+    languageName: EN
 
     menus:
       main:
