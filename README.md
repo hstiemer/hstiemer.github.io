@@ -2,7 +2,10 @@
 
 visit: https://haimo-stiemer.org/about/
 
-### Allgemein
+### Allgemeine Hinweise
+- alle Änderungen müssen auf Github commited und gepushed werden. Das ist entweder in Github selber möglich ODER man erstellt eine Github-Repository-Connection und überarbeitet Inhalte auf dem eigenen Rechner.
+
+### Allgemeine Einstellungen
 
 - allgemeine Einstellungen: hugo.yaml
 
