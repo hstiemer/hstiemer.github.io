@@ -8,7 +8,7 @@ visit: https://haimo-stiemer.org/about/
 
 ### Inhalte ändern
 
-- In den Ordner "content" navigieren
+- In den Ordner "content" navigieren und je nach Sprache in den Ordner "en" oder "de" navigieren:
     - about.md = Inhalt der Startseite
     - vita.md = Werdegang
     - publikationen.md = Publikationen
@@ -18,7 +18,7 @@ visit: https://haimo-stiemer.org/about/
     - netzwerk.md = Netzwerk
     - kontakt.md  = Kontaktinformationen
     - archiv/....md
-        - Hier können alte Beiträge, die nicht mehr auf der Startseite angezeigt werden sollen, abegelegt werden. Die Dateien müssen als markdown-Dateien abgelegt werden und mit einem YAML-Teil (markiert durch --- am Anfang und am Ende) beginnen, damit sie auf der Archivseite angezeigt werden
+        - Hier können alte Beiträge, die nicht mehr auf der Startseite angezeigt werden sollen, abegelegt werden. Die Dateien müssen als Markdown-Dateien abgelegt werden und mit einem YAML-Teil (markiert durch --- am Anfang und am Ende) beginnen, damit sie auf der Archivseite angezeigt werden
 
 ### Bilder hizufügen
 
