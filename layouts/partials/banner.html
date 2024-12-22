@@ -17,9 +17,9 @@
       {{ if eq . $.Site.Language }}
 		<a class="active language">{{ .LanguageName }}</a>
 	{{ else }}
-		{{ range $.Translations }}
+		<!-- {{ range $.Translations }}
 		<a href="{{ .Permalink }}" class=""> {{ .Language.LanguageName }} </a>
-		{{ end }}
+		{{ end }} -->
 	{{ end }}
       {{ end }}
     </div>
