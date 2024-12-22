@@ -1,6 +1,6 @@
 theme: hugo-flex
 title: Haimo Stiemer 
-baseURL: https://haimo-stiemer.org/content/
+baseURL: https://haimo-stiemer.org/
 params:
   color: white           # Any color in CSS syntax
   width: 20           # Any length in CSS syntax / leave empty to span page
