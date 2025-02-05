@@ -60,16 +60,27 @@ body {
 
 }
 
+.u-wrapper {
+  display: flex;
+  justify-content: space-between; /* Verteilt Elemente: Titel links, Menü in der Mitte, Language rechts */
+  align-items: center;
+}
+
+
 .nav.u-wrapper { color: black; background-color: black }
 
+.u-background .u-wrapper {
+  background: rgba(76, 103, 71, 0.78);
+}
 .Banner {
   list-style: none;
   display: flex;
-  flex-flow: row-reverse wrap-reverse;
-  justify-content: space-between;
+  /* flex-flow: row-reverse wrap-reverse; */
+  justify-content: left;
   margin: 0;
   padding: 0;
-  color: black;
+  color: white;
+  flex-grow: 1;
 }
 
 webpageTitle {
@@ -90,20 +101,38 @@ article {
   width: auto;
 }
 
-a.Banner-link.u-clickable {
-font-weight: 120;
-font-size: 16.5px;
-letter-spacing: 1.5px;
-
-
+.Banner-link {
+  padding: 0.5rem 0.2rem;
 }
 
-.Banner-item--title {
-  flex-grow: 1;
-  margin-bottom: 0em;
-  margin-top: 0.5em;
+a.Banner-link.u-clickable {
+  font-weight: 120;
+  font-size: 16.5px;
+  letter-spacing: 1px;
+  padding-left: 15px;
 
   }
+
+  .Banner-item {
+    padding-left: -10em;
+    
+  }
+
+
+.Banner-item--title {
+  text-align: left;
+  margin-bottom: 0em;
+  margin-top: 0.5em;
+  width: auto;
+  margin-right: 20px;
+
+  }
+
+.Banner-item:not(:last-child)::after {
+    content: " | ";
+    margin-left: 8px;
+    color: white;
+}
 
 p {
 
@@ -140,7 +169,8 @@ h3 {
   }
 
   .u-background {
-    background: rgba(76, 103, 71, 0.78); 
+    /*background: rgba(76, 103, 71, 0.78); */
+    background: white;
     padding: 7px;
     }
 
@@ -150,9 +180,11 @@ h3 {
     }
 
 .Banner-language-switcher {
-  display: inline-block;
-  margin-left: 10px; /* Abstand vom Titel oder Navigation */
   font-weight: 100;
+  padding-left: 12px;
+
+  text-align: left;
+  margin-left: auto;
 }
 
 .Banner-language-switcher a {

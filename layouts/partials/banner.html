@@ -1,17 +1,18 @@
 <nav class="u-background">
   <div class="u-wrapper">
-    <ul class="Banner">
-      <li class="Banner-item Banner-item--title">
-        <webpageTitle>
-          {{ site.Title }}
-        </webpageTitle>
-      </li>
+    <div class="Banner-title">
+      <div class="Banner-item--title">
+        <webpageTitle>{{ site.Title }}</webpageTitle>
+      </div>
+    <div class="Banner-container">
+      <ul class = "Banner">
       {{ range site.Menus.main }}
         <li class="Banner-item">
           <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
         </li>
       {{ end }}
     </ul>
+    
     <div class="Banner-language-switcher">
       {{ range .Site.Languages }}
       {{ if eq . $.Site.Language }}
@@ -25,5 +26,6 @@
     </div>
  
   </div>
-  
+
+</div>
 </nav>
