@@ -7,7 +7,7 @@ translationKey: vita
 
 **seit 08/2022**               
 Wissenschaftlicher Mitarbeiter am Fachgebiet Digitale Philologie – Neuere deutsche Literaturwissenschaft (Prof. Dr. Evelyn Gius) an der TU Darmstadt, im Projekt »Evaluating Events in Narrative Theory (EvENT)«, gefördert im DFG-Schwerpunktprogramm 2207 (bis 10/2023), im Projekt »Unitizing PLot to advance Analysis of Narrative Structure (PLANS)«, gefördert im DFG-Schwerpunktprogramm 2207 (ab 11/2023)
-
+  
 
 **4/2020 – 08/2022**    
 Ossietzky Research Fellow an der Carl von Ossietzky Universität (Auszeichnung und Anstellung über Präsidiumsmittel zur Nachwuchsförderung, kompetitiv extern begutachtet), Themenschwerpunkt: »Literaturjournale im internationalen Vergleich«
