@@ -1,31 +1,43 @@
 <nav class="u-background">
   <div class="u-wrapper">
+
+    <!-- Banner-Titel -->
     <div class="Banner-title">
       <div class="Banner-item--title">
-        <webpageTitle>{{ site.Title }}</webpageTitle>
+        <span class="webpageTitle">{{ .Site.Title }}</span>
       </div>
-    <div class="Banner-container">
-      <ul class = "Banner">
-      {{ range site.Menus.main }}
-        <li class="Banner-item">
-          <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
-        </li>
-      {{ end }}
-    </ul>
-    
-    <div class="Banner-language-switcher">
-      {{ range .Site.Languages }}
-      {{ if eq . $.Site.Language }}
-		<a class="active language">{{ .LanguageName }}</a>
-	{{ else }}
-		{{ range $.Translations }}
-		<a href="{{ .Permalink }}" class=""> {{ .Language.LanguageName }} </a>
-		{{ end }}
-	{{ end }}
-      {{ end }}
     </div>
- 
-  </div>
 
-</div>
+    <!-- Menü -->
+    <div class="Banner-container">
+      <ul class="Banner">
+        {{ range .Site.Menus.main }}
+          <li class="Banner-item">
+            {{ if .Page }}
+              <a class="Banner-link u-clickable" href="{{ .Page.RelPermalink }}">{{ .Name }}</a>
+            {{ else }}
+              <span class="Banner-link u-clickable">{{ .Name }}</span>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+
+      <!-- Sprachumschalter -->
+      <div class="Banner-language-switcher">
+        {{ range .Site.Languages }}
+          {{ if eq .LanguageCode $.Site.Language.LanguageCode }}
+            <span class="active language">{{ .LanguageName }}</span>
+          {{ else }}
+            {{ $target := $.Site.GetPage "home" .LanguageCode }}
+            {{ if $target }}
+              <a href="{{ $target.RelPermalink }}" class="language">{{ .LanguageName }}</a>
+            {{ else }}
+              <span class="language">{{ .LanguageName }}</span>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
 </nav>
