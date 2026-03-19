@@ -6,23 +6,24 @@
       </div>
     <div class="Banner-container">
       <ul class = "Banner">
-      {{ range .Site.Menus.main }}
+      {{ range site.Menus.main }}
         <li class="Banner-item">
-          <a class="Banner-link u-clickable" href="{{ .Page.RelPermalink }}">{{ .Name }}</a>
+          <a class="Banner-link u-clickable" href="{{ relLangURL .URL }}">{{ .Name }}</a>
         </li>
-
       {{ end }}
     </ul>
     
-<div class="Banner-language-switcher">
-  {{ range .Site.Languages }}
-    {{ if eq .LanguageCode $.Site.Language.LanguageCode }}
-      <span class="active language">{{ .LanguageName }}</span>
-    {{ else }}
-      <a href="{{ "/" | relLangURL }}" class="language">{{ .LanguageName }}</a>
-    {{ end }}
-  {{ end }}
-</div>
+    <div class="Banner-language-switcher">
+      {{ range .Site.Languages }}
+      {{ if eq . $.Site.Language }}
+		<a class="active language">{{ .LanguageName }}</a>
+	{{ else }}
+		{{ range $.Translations }}
+		<a href="{{ .Permalink }}" class=""> {{ .Language.LanguageName }} </a>
+		{{ end }}
+	{{ end }}
+      {{ end }}
+    </div>
  
   </div>
 
