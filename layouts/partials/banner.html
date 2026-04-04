@@ -12,24 +12,18 @@
         </li>
       {{ end }}
     </ul>
-  <div class="Banner-language-switcher">
-    {{ $current := . }}   <!-- aktuelle Seite -->
-
-  {{ $current := . }}  <!-- aktuelle Page -->
+<div class="Banner-language-switcher">
+  {{ $currentURL := .RelPermalink }}
   {{ range .Site.Languages }}
-    {{ if eq .Lang $current.Language.Lang }}
+    {{ if eq .Lang $.Site.Language.Lang }}
       <span class="active language">{{ .LanguageName }}</span>
     {{ else }}
-      {{ $link := "/" | relLangURL }}
-      {{ range $current.Translations }}
-        {{ if eq .Lang .Lang }}
-          {{ $link = .RelPermalink }}
-        {{ end }}
-      {{ end }}
-      <a href="{{ $link }}">{{ .LanguageName }}</a>
+      {{ $prefix := printf "/%s/" .Lang }}
+      {{ $newURL := replace $currentURL (printf "/%s/" $.Site.Language.Lang) $prefix }}
+      <a href="{{ $newURL }}">{{ .LanguageName }}</a>
     {{ end }}
   {{ end }}
-  </div>
+</div>
   </div>
 
 </div>
