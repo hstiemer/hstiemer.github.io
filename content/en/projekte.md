@@ -1,6 +1,5 @@
 ---
 title: Projects
-translationKey: Projects
 ---
 
 Since August 2022, I have been working at the **fortext lab** at TU Darmstadt, led by Evelyn Gius. Initially involved with the **EvENT Project**, I have been engaged with the **PLANS Project** since November 2023. The fortext lab not only provides the popular annotation tool **CATMA** and the **fortext.net portal**, which introduces beginners to fundamental analysis methods and tools in the field of Digital Humanities, but also operates as a service platform. As part of the Department of Linguistics and Literary Studies at TU Darmstadt, it is embedded in a research environment specializing, among other areas, in Digital Philology, with five out of the department's eight divisions working in this field.

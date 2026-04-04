@@ -1,5 +1,4 @@
 ---
-translationKey: about
 ---
 
 

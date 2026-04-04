@@ -1,6 +1,5 @@
 ---
 title: Career Overview
-translationKey: vita
 
 ---
 

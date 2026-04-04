@@ -1,6 +1,5 @@
 ---
 title: Publications
-translationKey: publications
 ---
 
 <!--{{ < publikationen >}}-->

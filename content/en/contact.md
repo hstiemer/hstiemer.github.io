@@ -1,6 +1,5 @@
 ---
 title: Contact Information
-translationKey: contact
 identifier: contact
 
 ---

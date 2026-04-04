@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}">
+<html lang="{{ .Site.Language.LanguageCode }}">
 
 <head>
   {{ block "load_paginator" . }}{{ end }}
@@ -14,7 +14,9 @@
 </head>
 
 <body>
-  {{ partialCached "banner.html" . }}
+  <!-- Banner Partial – übergebe die aktuelle Page -->
+  {{ partial "banner.html" . }}
+
   <main>
     <div class="u-wrapper">
       <div class="u-padding">
@@ -22,7 +24,8 @@
       </div>
     </div>
   </main>
-  {{ partialCached "footer.html" . }}
+
+  {{ partial "footer.html" . }}
 </body>
 
 </html>

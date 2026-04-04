@@ -1,6 +1,5 @@
 ---
 title: Werdegang
-translationKey: vita
 ---
 
 ## Berufserfahrung

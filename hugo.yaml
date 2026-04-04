@@ -53,30 +53,29 @@ languages:
     menus:
       main:
       - name: Start
-        ref: /about.md
+        pageRef: /about.md
         weight: 1
-        translationKey: start
         identifier: start
       - name: Werdegang
-        ref: /vita.md
+        pageRef: /vita.md
         weight: 2
         identifier: vita
       - name: Projekte
-        ref: /projekte.md
+        pageRef: /projekte.md
         weight: 3
         identifier: projects
       - name: Netzwerk
-        ref: /netzwerk.md
+        pageRef: /netzwerk.md
         weight: 4
         identifier: network
       - name: Publikationen
-        ref: /publikationen.md
+        pageRef: /publikationen.md
         weight: 5      
       - name: Archiv
-        ref: /archiv/
+        pageRef: /archiv/
         weight: 6
       - name: Kontakt
-        ref: /kontakt.md
+        pageRef: /contact.md
         weight: 7  
   en:
     contentDir: content/en
@@ -87,31 +86,29 @@ languages:
     menus:
       main:
       - name: Start
-        ref: /about.md
+        pageRef: /about.md
         weight: 1
-        translationKey: start
         identifier: start
       - name: Career
-        ref: /vita.md
+        pageRef: /vita.md
         weight: 2
         identifier: vita
-        translationKey: vita
       - name: Projects
-        ref: /projekte.md
+        pageRef: /projekte.md
         weight: 3
         identifier: projects
       - name: Networking
-        ref: /netzwerk.md
+        pageRef: /netzwerk.md
         weight: 4
         identifier: network
       - name: Publications
-        ref: /publikationen.md
+        pageRef: /publikationen.md
         weight: 5      
       - name: Archive
-        ref: /archiv/
+        pageRef: /archiv/
         weight: 6
       - name: Contact
-        ref: /contact.md
+        pageRef: /contact.md
         weight: 7  
 
 
