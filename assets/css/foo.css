@@ -57,6 +57,7 @@ img[alt$=">"] {
 body {
   font-family: Open Sans, sans-serif;
   line-height: 1.4;
+  background-color: white;
 
 }
 
