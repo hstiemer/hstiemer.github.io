@@ -85,17 +85,15 @@ body {
 }
 
 webpageTitle {
-color: white;
-font-size: 46px;
-letter-spacing: 3px;
-margin-left: 11px;
-font-family: Open Sans, sans-serif;
+  color: white;
+  font-size: 46px;
+  letter-spacing: 3px;
+  margin-left: 11px;
+  font-family: Open Sans, sans-serif;
 }
 
 .u-padding {
   font-size: 14px;
-
-
 }
 
 article {
@@ -139,6 +137,7 @@ p {
 
   font-size: 14.5px;
   text-align: justify;
+  color: rgb(44, 43, 43);
 }
 
 li {
@@ -162,23 +161,34 @@ h3 {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-weight: bold;
+  color: rgb(44, 43, 43);
 
   }
 
 .h4 {
     margin-bottom: -1.2em;
+    color: rgb(44, 43, 43);
   }
+
+h2 {
+  color: rgb(44, 43, 43);
+}
 
   .u-background {
     /*background: rgba(76, 103, 71, 0.78); */
     background: white;
     padding: 7px;
+
     }
 
  a {
 
       color: rgba(76, 103, 71, 0.78);
     }
+
+header.Heading {
+  color: rgb(44, 43, 43);
+}
 
 .Banner-language-switcher {
   font-weight: 100;
